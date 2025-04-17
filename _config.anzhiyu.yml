@@ -454,13 +454,13 @@ bdageitem:
       - link: http://creativecommons.org/licenses/by-nc-sa/4.0/
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/Copyright-BY-NC-SA.svg
         message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
-  socialBar:
+socialBar:
     enable: true
     centerImg:
     left:
-       - title: email
-         link: mailto:tengyumo666@hotmail.com
-         icon: anzhiyu-icon-envelope
+      - title: email
+        link: mailto:tengyumo666@hotmail.com
+        icon: anzhiyu-icon-envelope
       # - title: 微博
       #   link: https://weibo.com/u/6378063631
       #   icon: anzhiyu-icon-weibo
